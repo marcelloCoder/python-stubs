@@ -1,4 +1,4 @@
-# PYTHON STUB CLIENTE E SERVIDOR
+# PYTHON STUBS CLIENTE E SERVIDOR
 
 # Implementação de Autenticação nos Stubs Cliente-Servidor em Python
 
@@ -88,4 +88,3 @@ Para executar este projeto, siga os passos abaixo:
 ## Conclusão
 
 Este projeto demonstra a implementação de autenticação básica em um ambiente cliente-servidor usando Python, além de funcionalidades adicionais como bloqueio após tentativas falhas e registro de autenticações. É um exemplo simples e funcional de como proteger operações críticas em uma aplicação distribuída.
-"""
